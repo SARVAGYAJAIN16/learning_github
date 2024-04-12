@@ -1,4 +1,4 @@
 # learning_github
 This is my first repository
 <br>
-Author - Sarvagya Jain
+Author - Sarvagya Jain(sarvagya jain)
